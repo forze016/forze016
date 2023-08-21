@@ -13,7 +13,6 @@
 
 - 📲 Full Stack developer
 - ✏️ I am currently studying at the SoyHenry BootCamp
-- 🎥At SoyHenry I volunteer as a [Teaching Assistant](https://www.linkedin.com/in/facundo-nadaya-15a111214/details/experience/).
 - 📫  Email me at facundonadaya@gmail.com
 - 🌱 I’m currently learning JAVA
 <br>
