@@ -9,7 +9,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-nadaya-15a111214/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FacundoNadaya)
 
-## About me
+<h3 align="center">About me:</h3>
+
 - 📲 Full Stack developer
 - ✏️ I am currently studying at the SoyHenry BootCamp
 - 🎥At SoyHenry I volunteer as a [Teaching Assistant](https://www.linkedin.com/in/facundo-nadaya-15a111214/details/experience/).
@@ -34,7 +35,7 @@
       </div>
 </div>
 
-## Projects
+<h3 align="center">Projects:</h3>
 
 <table>
 <tr>
@@ -70,7 +71,7 @@
 <br>
 
 
-### 📊 My Stats :
+<h3 align="center">📊 My Stats:</h3>
 
 <p align="center">
 <a href="https://github.com/forze016">
