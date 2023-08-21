@@ -72,12 +72,9 @@
 
 ### 📊 My Stats :
 
-<div align="center">  
-    
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YouDevs&theme=onedark)](https://git.io/streak-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YouDevs&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouDevs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</div> 
-
+<p align="center">
+<a href="https://github.com/forze016">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=forze016&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=forze016&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
