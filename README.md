@@ -41,11 +41,43 @@
 <td width="50%">
 <h3 align="center">Rick And Morty</h3>
 <div align="center">
-<a href="https://github.com/forze016/rick_and_morty"><img src="https://ntvb.tmsimg.com/assets/p10376284_b_h8_av.jpg?w=960&h=540" width="400" alt="rick_and_morty"></a>
+<a href="https://github.com/forze016/rick_and_morty/tree/master"><img src="https://ntvb.tmsimg.com/assets/p10376284_b_h8_av.jpg?w=960&h=540" width="400" alt="rick_and_morty"></a>
 <p>
-<a href="https://github.com/forze016/rick_and_morty" target="_blank">
+<a href="https://github.com/forze016/rick_and_morty/tree/master" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </a>
 </p>
 </div>
+</td>
+
+
+<td width="50%">
+               <br>
+<h3 align="center">Video Games Individual Project</h3>
+<div align="center">                                       
+<a href="https://github.com/forze016/PI-Videogames" target="_blank"><img src="https://colombia.unir.net/wp-content/uploads/sites/4/2015/04/videojuegos_1920x1080.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<br>
+<p>
+<a href="https://github.com/forze016/PI-Videogames" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</a>
+</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
+
+### 📊 My Stats :
+
+<div align="center">  
+    
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YouDevs&theme=onedark)](https://git.io/streak-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YouDevs&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouDevs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</div> 
+
