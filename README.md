@@ -7,10 +7,6 @@
 <img src="https://media.licdn.com/dms/image/D4D16AQGTESOhlg6NZA/profile-displaybackgroundimage-shrink_350_1400/0/1690766413315?e=1698278400&v=beta&t=ECxG1j2YNik4x56Arcy_EwGY5DbNkRKxYrWKvs78Y-0">
 
 [![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FFacundoNadaya&labelColor=Blue)](https://twitter.com/FacundoNadaya)
-
-
-
-https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FFacundoNadaya&labelColor=Blue
-
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-nadaya-15a111214/)
 
 ## About me
