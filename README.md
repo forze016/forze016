@@ -65,7 +65,7 @@
 </div>
 </td>
 
-
+<tr>
 <td width="50%">
                <br>
 <h3 align="center">Video Games Individual Project</h3>
