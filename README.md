@@ -52,6 +52,20 @@
 </div>
 </td>
 
+<tr>
+<td width="50%">
+<h3 align="center">Portfolio</h3>
+<div align="center">
+<a href="https://github.com/forze016/portfolio"><img src="http://imgfz.com/i/GeXkQmo.png" width="400" alt="portfolio"></a>
+<p>
+<a href="https://github.com/forze016/rick_and_morty/tree/master" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</a>
+</p>
+</div>
+</td>
+
 
 <td width="50%">
                <br>
